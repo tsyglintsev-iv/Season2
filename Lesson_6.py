@@ -62,7 +62,7 @@ s=Sentence([1,0,2])
 
 print(s.show())
 print(s.show_parts())
-#print(s.content)
+print(s.content)
 
 
 
